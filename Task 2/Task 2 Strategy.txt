@@ -1,0 +1,41 @@
+The program focused_crawler.py contains a function named keyword_matches which does the following:
+
+GIVEN : keyword, anchor text and text within the URL
+Return : True iff keyword matches
+
+keyword_matches returns True if one of the following is True:
+- Anchor text starts with the keyword
+- Anchor text contains a space followed by the keyword followed by a space
+- Anchor text contains a space followed by the keyword
+- Anchor text ends with a space followed by the keyword
+- Text within the URL starts with the keyword
+- Text within the URL contains an underscore followed by the keyword followed by an underscore
+- Text within the URL contains an underscore followed by the keyword
+- Text within the URL ends with an underscore followed by the keyword
+
+Examples:
+
+- keyword_matches("rain","Rainfall forecasting","Tropical_cyclone_rainfall_forecasting")
+=> True
+
+- keyword_matches("rain","Red rain in Kerala","Red_rain_in_Kerala")
+=> True
+
+- keyword_matches("rain","Freezing rain","Freezing_rain")
+=> True
+
+- keyword_matches("rain","Rain gutter","Rain_gutter")
+=> True
+
+
+- keyword_matches("rain","heavy rain","Heavy_rain_(meteorology)")
+=> True
+
+
+- keyword_matches("rain","Convection rain","Convection_rain")
+=> True
+
+
+- keyword_matches("rain","Storm drain","Storm_drain")
+=> False
+

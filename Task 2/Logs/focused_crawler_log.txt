@@ -1,0 +1,112 @@
+Seed : https://en.wikipedia.org/wiki/Tropical_cyclone
+Keyword : rain
+
+Depth 1 :
+
+1) https://en.wikipedia.org/wiki/Tropical_cyclone
+
+Depth 2 :
+
+2) https://en.wikipedia.org/wiki/Rainband
+3) https://en.wikipedia.org/wiki/Freezing_rain
+4) https://en.wikipedia.org/wiki/Tropical_cyclone_rainfall_forecasting
+5) https://en.wikipedia.org/wiki/Tropical_cyclone_rainfall_climatology
+6) https://en.wikipedia.org/wiki/Rainbands
+7) https://en.wikipedia.org/wiki/Heavy_rain_(meteorology)
+
+Depth 3 :
+
+8) https://en.wikipedia.org/wiki/Rain
+9) https://en.wikipedia.org/wiki/Rain_and_snow_mixed
+10) https://en.wikipedia.org/wiki/United_States_tropical_cyclone_rainfall_climatology
+11) https://en.wikipedia.org/wiki/China_tropical_cyclone_rainfall_climatology
+12) https://en.wikipedia.org/wiki/Wet_season
+13) https://en.wikipedia.org/wiki/Rain_gauge
+14) https://en.wikipedia.org/wiki/Droplet
+15) https://en.wikipedia.org/wiki/Convection_rain
+16) https://en.wikipedia.org/wiki/United_States_rainfall_climatology
+17) https://en.wikipedia.org/wiki/Rain_shadow
+18) https://en.wikipedia.org/wiki/Acid_rain
+19) https://en.wikipedia.org/wiki/Rain_forest
+20) https://en.wikipedia.org/wiki/Rainwater_tank
+21) https://en.wikipedia.org/wiki/List_of_rain_deities
+22) https://en.wikipedia.org/wiki/Raincoat
+23) https://en.wikipedia.org/wiki/Earth_rainfall_climatology
+24) https://en.wikipedia.org/wiki/Tropical_rainforest
+25) https://en.wikipedia.org/wiki/Temperate_rainforest
+26) https://en.wikipedia.org/wiki/Red_rain_in_Kerala
+
+Depth 4 :
+
+27) https://en.wikipedia.org/wiki/Rainfall
+28) https://en.wikipedia.org/wiki/East_Asian_rainy_season
+29) https://en.wikipedia.org/wiki/Rainbow
+30) https://en.wikipedia.org/wiki/Orographic_rainfall
+31) https://en.wikipedia.org/wiki/Acid_rain_(disambiguation)
+32) https://en.wikipedia.org/wiki/Rainwater
+33) https://en.wikipedia.org/wiki/Hawaiian_tropical_rainforests
+34) https://en.wikipedia.org/wiki/Temperate_rainforests_of_the_Russian_Far_East
+35) https://en.wikipedia.org/wiki/Amazon_rainforest
+36) https://en.wikipedia.org/wiki/Inland_rainforest
+37) https://en.wikipedia.org/wiki/Rainwater_harvesting
+38) https://en.wikipedia.org/wiki/Rain_gutter
+39) https://en.wikipedia.org/wiki/Rainforest
+40) https://en.wikipedia.org/wiki/Mexico_tropical_cyclone_rainfall_climatology
+41) https://en.wikipedia.org/wiki/Tropical_rainforest_climate
+42) https://en.wikipedia.org/wiki/Daintree_rainforest
+43) https://en.wikipedia.org/wiki/Tropical_rainforest_conservation
+44) https://en.wikipedia.org/wiki/Temperate_rain_forest
+45) https://en.wikipedia.org/wiki/Pacific_temperate_rain_forests
+46) https://en.wikipedia.org/wiki/Valdivian_temperate_rain_forests
+47) https://en.wikipedia.org/wiki/Pacific_temperate_rain_forest_(WWF_ecoregion)
+48) https://en.wikipedia.org/wiki/Valdivian_temperate_rainforests
+49) https://en.wikipedia.org/wiki/Pacific_temperate_rain_forests_(WWF_ecoregion)
+50) https://en.wikipedia.org/wiki/Pacific_temperate_rain_forests_ecoregion
+51) https://en.wikipedia.org/wiki/Appalachian_temperate_rainforest
+52) https://en.wikipedia.org/wiki/Japanese_temperate_rainforest
+53) https://en.wikipedia.org/wiki/Southern_Siberian_rainforest
+54) https://en.wikipedia.org/wiki/Tasmanian_temperate_rain_forests
+55) https://en.wikipedia.org/wiki/Westland_temperate_rainforests
+56) https://en.wikipedia.org/wiki/Red_rain_(disambiguation)
+57) https://en.wikipedia.org/wiki/Blood_rain
+58) https://en.wikipedia.org/wiki/Raining_animals
+59) https://en.wikipedia.org/wiki/Rain_dust
+60) https://en.wikipedia.org/wiki/Yellow_rain
+
+Depth 5 :
+
+61) https://en.wikipedia.org/wiki/Monochrome_rainbow
+62) https://en.wikipedia.org/wiki/Rainbow_nation
+63) https://en.wikipedia.org/wiki/Deforestation_of_the_Amazon_rainforest
+64) https://en.wikipedia.org/wiki/Congolese_rainforests
+65) https://en.wikipedia.org/wiki/Rain_barrel
+66) https://en.wikipedia.org/wiki/Queensland_tropical_rain_forests
+67) https://en.wikipedia.org/wiki/Pacific_temperate_rainforests_(WWF_ecoregion)
+68) https://en.wikipedia.org/wiki/Valdivian_temperate_rainforest
+69) https://en.wikipedia.org/wiki/Valdivian_temperate_rain_forest
+70) https://en.wikipedia.org/wiki/Temperate_rainforests
+71) https://en.wikipedia.org/wiki/Rain_shadow_effect
+72) https://en.wikipedia.org/wiki/Tasmanian_cool_temperate_rainforests
+73) https://en.wikipedia.org/wiki/Tasmanian_temperate_rainforests
+74) https://en.wikipedia.org/wiki/Blood_rain_(disambiguation)
+75) https://en.wikipedia.org/wiki/Downpour
+
+Depth 6 :
+
+76) https://en.wikipedia.org/wiki/Selective_logging_in_the_Amazon_rainforest
+77) https://en.wikipedia.org/wiki/Biak-Numfoor_rain_forests
+78) https://en.wikipedia.org/wiki/Central_Range_montane_rain_forests
+79) https://en.wikipedia.org/wiki/Huon_Peninsula_montane_rain_forests
+80) https://en.wikipedia.org/wiki/Japen_rain_forests
+81) https://en.wikipedia.org/wiki/New_Caledonia_rain_forests
+82) https://en.wikipedia.org/wiki/Northern_New_Guinea_lowland_rain_and_freshwater_swamp_forests
+83) https://en.wikipedia.org/wiki/Solomon_Islands_rain_forests
+84) https://en.wikipedia.org/wiki/Vanuatu_rain_forests
+85) https://en.wikipedia.org/wiki/Subtropical_rainforest
+86) https://en.wikipedia.org/wiki/Monsoon_rains
+
+------------------------------------------------------------------------------------
+Logistics :
+
+Number of matching searches : 86
+Maximum depth reached : Depth 6
